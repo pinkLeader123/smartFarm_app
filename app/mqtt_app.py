@@ -2,7 +2,7 @@
 import os
 import fcntl
 import time
-import jsons
+import json
 import threading
 import math
 import sys
